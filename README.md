@@ -12,7 +12,7 @@ MixerIDE is an experimental, modular IDE designed to :
   - Analyze and correct code using optional AI-based debugging
   - Launch programs natively across different architectures and systems
 
----- Key Concept ----
+# # Key Concept
 
 # 1 : Language-agnostic development
 
