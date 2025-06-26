@@ -2,6 +2,7 @@
 Mixer is a universal development environment, decompiler, compiler, runtime, and language translation system. Its purpose is to bridge the gap between all programming languages, architectures, and platforms by offering a unified pipeline for writing, analyzing, and launching software — regardless of origin or format.
 
 **MixerIDE**
+
 MixerIDE is an experimental, modular IDE designed to :
 
   - Accept source code from *any* language (C, Python, GML, Assembly, etc.)
