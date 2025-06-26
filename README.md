@@ -53,7 +53,7 @@ For example, if the wanted languages are GML and Godot, which are repeated among
     add_child(label)
 ```
 
-From that program, we can set the which StartOf[lang] goes on top of which, like this :
+From that program, we can set which StartOf[lang] goes on top of which, like this :
 ```lang
 OverLapTable: [
   from GML : StartOf(1), LayerSetting = Opacity(90) + AlwaysFront;
